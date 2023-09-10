@@ -1,10 +1,10 @@
 Privacy Policy for Internet Speed Meter App
 
-Last Updated: [Date]
+Last Updated: 9/10/23
 
 1. Introduction
 
-This Privacy Policy explains how [Your Company Name] ("we," "us," or "our") handles user information when you use our Internet Speed Meter app (the "App"). We are committed to protecting your privacy and ensuring transparency in how we handle data, even if we do not collect any personal information.
+This Privacy Policy explains how Lite Play Apps we handles user information when you use our Internet Speed Meter app (the "App"). We are committed to protecting your privacy and ensuring transparency in how we handle data, even if we do not collect any personal information.
 
 2. Data Collection
 
@@ -32,7 +32,7 @@ We may update this Privacy Policy to reflect changes in our practices or for ope
 
 If you have any questions, concerns, or requests related to this Privacy Policy or our data practices, please contact us at:
 
-[Your Contact Information]
+liteplayapps@gmail.com
 
 8. Consent
 
